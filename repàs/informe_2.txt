@@ -1,0 +1,5 @@
+Informe número 2
+---
+Total de línies: 114
+Línies amb ERROR: 2
+Línies amb WARNING: 0
